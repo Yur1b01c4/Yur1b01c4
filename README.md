@@ -1,4 +1,8 @@
-# Olá, eu sou o Yuri! 👋
+<div align="center"> 
+  
+# Olá, eu sou o Yuri! 👋 
+
+</div>
 
 <div align="center">
 
@@ -16,7 +20,7 @@
 
 ## 🎯 Sobre mim
 
-Sou um desenvolvedor **Junior**, estudando **Análise e Desenvolvimento de Sistemas** na **FATEC de Taquaritinga** (conclusão em 2028). Comecei minha jornada no desenvolvimento como **Jovem Aprendiz** em TI e hoje trabalho como **Desenvolvedor Junior**, onde colaboro em projetos reais e transformo desafios em experiências de aprendizado.
+Sou um **desenvolvedor Junior**, estudando **Análise e Desenvolvimento de Sistemas** (conclusão em 2028). Colaboro em projetos reais e transformo desafios em experiências de aprendizado.
 
 Sou apaixonado por **inovação**, **desenvolvimento backend** e **resolução de problemas**. Acredito que a melhor forma de aprender é construindo algo que realmente importa para as pessoas.
 
@@ -83,7 +87,7 @@ Uma solução completa desenvolvida para técnicos autônomos que prestam servi�
 ### 📞 Sistema de Lista de Ramais Corporativos
 **Do jovem aprendiz ao desenvolvedor: minha primeira solução profissional**
 
-Desenvolvido na época em que era **Jovem Aprendiz em TI**, este sistema centraliza todos os contatos da empresa em um único local, facilitando a comunicação interna entre colaboradores.
+Desenvolvido na época em que era **Jovem Aprendiz em TI**, sistema centraliza todos os contatos da empresa em um único local, facilitando a comunicação interna entre colaboradores.
 
 **Funcionalidades:**
 - 📋 Lista paginada de colaboradores
@@ -99,7 +103,7 @@ Desenvolvido na época em que era **Jovem Aprendiz em TI**, este sistema central
 ### 📊 Dashboard Financeiro de Vendas - Streamlit
 **Análise de dados e visualização interativa**
 
-Um Dashboard interativo para visualização e análise de dados financeiros de vendas. Desenvolvido inicialmente como aprendizado no curso "Streamlit: construindo um dashboard interativo" da Alura, foi refatorado seguindo boas práticas de modularização, documentação e estrutura profissional de repositórios.
+Um Dashboard interativo para visualização e análise de dados financeiros de vendas. Desenvolvido como aprendizado no curso "Streamlit: construindo um dashboard interativo" da Alura.
 
 **Diferenciais:**
 - 📈 Visualizações ricas e interativas
@@ -112,31 +116,34 @@ Um Dashboard interativo para visualização e análise de dados financeiros de v
 ---
 
 🏆 Conquistas e Prêmios
+
 🥈 2º Lugar - Programa Rota Inova Rural
+
 Inovação no Agronegócio
-Participei como idealizador e líder de grupo da FATEC Taquaritinga no programa Rota Inova Rural, uma jornada de inovação criada pela Treesales que conecta grandes players do setor sucroenergético a startups, universidades e o ecossistema de inovação.
-Meu papel: Montei e liderei um grupo multidisciplinar na faculdade, desenvolvemos uma solução tecnológica para resolver desafios reais do agronegócio e conseguimos alcançar o 2º lugar do programa.
-Isso me mostrou na prática o que é inovação e como tecnologia pode impactar setores tradicionais! 💡
+
+Participei como idealizador de um grupo da minha faculdade no programa Rota Inova Rural, uma jornada de inovação criada para conectar grandes players do setor sucroenergético a startups, universidades e o ecossistema de inovação.
+
+---
 
 🚀 Finalista - AgroInnovationWeek (Hackaton)
-Soluções Rápidas, Impacto Real
-Participei do hackaton AgroInnovationWeek, um evento intenso voltado a soluções inovadoras para problemas do agronegócio.
+
+Participei do hackaton AgroInnovationWeek, um evento voltado a soluções inovadoras para problemas do agronegócio.
 O desafio: Em apenas 2 dias, minha equipe e eu desenvolvemos uma solução que resolvesse uma dor específica do setor agrícola.
 Aprendizados:
 
 ⚡ Trabalhar sob pressão e prazos apertados
-🎯 Focar no que realmente importa (MVP)
-🤝 Colaboração intensiva com multidisciplinares
-💡 Validação rápida de ideias
 
-Essas experiências reforçaram minha paixão por inovação e meu objetivo de ser desenvolvedor que cria soluções com impacto real! 🌟
+🎯 Focar no que realmente importa (MVP)
+
+🤝 Colaboração intensiva com multidisciplinares
+
+💡 Validação rápida de ideias
 
 ---
 
 ## 🎓 Formação
 
 - 🎓 **Análise e Desenvolvimento de Sistemas** - FATEC Taquaritinga (Em andamento - conclusão 2028)
-- 💼 Experiência como **Jovem Aprendiz em TI** 
 - 👨‍💻 Atuando como **Desenvolvedor Junior** (1 ano de experiência)
 
 ---
@@ -174,7 +181,7 @@ Estou sempre aberto a:
 **Conecte-se comigo:**
 - 📧 Email: [yurideoliveirasantana165@gmail.com](mailto:yurideoliveirasantana165@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/yuriosantana/](https://www.linkedin.com/in/yuriosantana/)
-- 💻 GitHub: [@yuriosantana](https://github.com/yuriosantana)
+- 💻 GitHub: [@Yur1b01c4](https://github.com/Yur1b01c4)
 
 ---
 
